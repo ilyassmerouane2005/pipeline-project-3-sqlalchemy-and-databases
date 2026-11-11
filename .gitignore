@@ -1,0 +1,11 @@
+# Virtual Environments (DO NOT PUSH)
+.env/
+.venv/
+venv/
+env/
+
+# Python cache & data
+__pycache__/
+*.pyc
+.pytest_cache/
+.vscode/
